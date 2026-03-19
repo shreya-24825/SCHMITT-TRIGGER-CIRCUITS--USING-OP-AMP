@@ -1,7 +1,7 @@
 # SCHMITT-TRIGGER-CIRCUITS--USING-OP-AMP
 
 ## AIM:
-	 To design the Schmitt trigger circuit using Op-amp IC 741.
+To design the Schmitt trigger circuit using Op-amp IC 741.
 ## APPARATUS REQUIRED:  
 <img width="664" height="172" alt="image" src="https://github.com/user-attachments/assets/5609257c-77ac-4e40-a405-99186a5ccdfb" />
 
@@ -17,8 +17,12 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 <img width="550" height="416" alt="image" src="https://github.com/user-attachments/assets/fb8c952f-c4e7-4c7d-a313-6b07db47def8" />
 
 ## TABULATION:
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/0795ba33-fcf1-4dc9-be9a-ed81f46bc1ec" />
+
 
 ## GRAPH:
+<img width="1184" height="1600" alt="image" src="https://github.com/user-attachments/assets/5622417b-bdd7-46c0-9a10-30ee12829fef" />
+
 
 ## DESIGN:
 1. Select the desire value of Vut & Vlt with same magnitude & opposite polarity.
@@ -44,3 +48,4 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 5.	Plot the graph & show the relationship between Input sine wave & Output
 
 ## RESULT:
+Thus Schmitt trigger is designed successfully using Op-amp IC 741. 
